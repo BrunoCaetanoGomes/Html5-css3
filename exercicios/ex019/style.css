@@ -1,0 +1,29 @@
+@charset 'uft-8';
+
+body{
+    font: normal; 
+    
+background-color:#a3d4b4c4;
+font-family:Arial, Helvetica, sans-serif
+
+}
+
+h1{
+color:#261d15af ;
+}
+
+h2{
+color: #261d15cd;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulo-principal{
+    background-color: #69df9d93;
+    color:#03A64A ;
+    text-align: center;
+    
+}
+.testo{
+    text-align: justify;
+
+}
